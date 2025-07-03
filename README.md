@@ -1,7 +1,7 @@
 # SageMath-GR-Toolkit
 # General Relativity Tensor Calculator with SageMath
 
-![SageMath Logo](https://www.sagemath.org/images/sagemath_icon.svg)
+[SageMath Logo](https://www.sagemath.org/images/sagemath_icon.svg)
 
 A computational toolkit for analyzing spacetime metrics and curvature tensors in General Relativity using SageMath.
 
