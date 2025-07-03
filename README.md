@@ -17,4 +17,4 @@ A computational toolkit for analyzing spacetime metrics and curvature tensors in
 sudo apt-get install sagemath
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[MIT License](LICENSE) - © 2025 [Parisa Nasiri](https://github.com/parrisaa)
